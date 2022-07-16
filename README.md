@@ -4,7 +4,7 @@
 
 This is the wiki repository for iDEC {year}, Team: {team_name}.
 
-The wiki created from this repository is hosted at [idec-teams.github.io/{team_repo_name}](https://idec{year}.github.io/{team_repo_name}).
+The wiki created from this repository is hosted at [idec-teams.github.io/{team_repo_name}](https://idec-teams.github.io/{team_repo_name}).
 
 The default wiki layout is powered by [MkDocs](http://mkdocs.org) with the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme.
 
