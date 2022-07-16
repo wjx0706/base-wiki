@@ -25,9 +25,9 @@ Try clicking on the different table headers
 
 | Task   | Due Date   | Priority |
 | ------ | ---------- | -------- |
-| Task A | 2021-06-01 | 3        |
-| Task B | 2021-05-01 | 2        |
-| Task C | 2021-07-01 | 1        |
+| Task A | {year}-06-01 | 3        |
+| Task B | {year}-05-01 | 2        |
+| Task C | {year}-07-01 | 1        |
 
 ## Markdown footnotes for citations
 
